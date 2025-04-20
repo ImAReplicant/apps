@@ -3903,6 +3903,13 @@ level = 8
 state = "working"
 url = "https://code.antopie.org/miraty/qr_ynh"
 
+[quartz]
+category = "publishing"
+potential_alternative_to = [ "Blogger", "Blogspot", "Wix" ]
+state = "working"
+subtags = [ "blog", "static_site_generator", "website" ]
+url = "https://github.com/YunoHost-Apps/quartz_ynh"
+
 [question2answer]
 added_date = 1674232499 # 2023/01/20
 category = "communication"
